@@ -24,3 +24,7 @@ manual computer interventions recorded along the way.
 
 AI coding applications working on this repository should begin with the
 [agent directive](AGENT_DIRECTIVE.md).
+
+Early book concepts are captured in the
+[book idea inbox](BOOK_IDEA_INBOX.md) before being organized into a formal
+outline.

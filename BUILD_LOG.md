@@ -25,8 +25,8 @@ metric rather than a claim about time spent or lines of code.
 
 | Metric | Count |
 | --- | ---: |
-| Completed milestones | 4 |
-| Voice-directed / agent-executed | 4 |
+| Completed milestones | 5 |
+| Voice-directed / agent-executed | 5 |
 | Manual computer interventions | 0 |
 | Collaborative | 0 |
 | Current autonomy rate | 100% |
@@ -81,6 +81,19 @@ metric rather than a claim about time spent or lines of code.
   and the definition of done.
 - **Result:** `AGENT_DIRECTIVE.md` is linked from the repository README and can
   be supplied as the starting context in other coding applications.
+- **Classification:** Voice-directed / agent-executed.
+- **Manual computer intervention:** None.
+
+### 2026-07-05 — Book idea capture system started
+
+- **Direction:** Preserve small ideas and observations as they emerge without
+  prematurely forcing them into a book outline.
+- **Agent work:** Created an append-only book idea inbox with a repeatable
+  capture format and organized the initial discussion about coding
+  applications, OpenCode, OpenRouter, model switching, free starting tools,
+  and portable agent directives.
+- **Result:** `BOOK_IDEA_INBOX.md` is the raw source material for a later
+  AI-assisted editorial and outlining pass.
 - **Classification:** Voice-directed / agent-executed.
 - **Manual computer intervention:** None.
 
