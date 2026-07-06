@@ -95,3 +95,32 @@ documented system that tells any capable model how to work on the project.
 without losing project continuity.
 
 **Status:** raw
+
+## 2026-07-05 — The book and platform teach each other
+
+**Idea:** The book is not separate from the educational platform. The owner is
+teaching how to build Vibe Coding 101 while actively building it, and the method
+will be discovered and refined along the way.
+
+This should not be rewritten into a falsely perfect success story. The useful
+material includes the moments when something goes wrong, the owner realizes,
+"Uh-oh, I shouldn't have done that," and the reader can see a consequence
+coming before the builder does. Those moments create honesty, tension, humor,
+and practical lessons that a polished retrospective would lose.
+
+**Teaching point:** Efficient vibe coding does not mean never making mistakes.
+It means making the work observable, recognizing mistakes, understanding why
+they happened, correcting them, and preserving the lesson for the next person.
+
+The project produces the book while the book helps define the project:
+
+1. The owner directs the real build.
+2. The agent records decisions, implementation, and results.
+3. Mistakes and course corrections become teaching material.
+4. Emerging lessons improve the platform and its operating rules.
+5. The improved process shapes the next stage of the build.
+
+**Possible placement:** Opening premise; narrative structure; learning in
+public; failure and recovery; the project as its own case study.
+
+**Status:** raw
