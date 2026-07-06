@@ -21,3 +21,6 @@ working efficiently with AI. The platform will combine:
 This project is being created primarily through relaxed, voice-driven direction
 from a phone. See the [build log](BUILD_LOG.md) for the decisions, actions, and
 manual computer interventions recorded along the way.
+
+AI coding applications working on this repository should begin with the
+[agent directive](AGENT_DIRECTIVE.md).
