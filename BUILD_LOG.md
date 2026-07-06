@@ -25,8 +25,8 @@ metric rather than a claim about time spent or lines of code.
 
 | Metric | Count |
 | --- | ---: |
-| Completed milestones | 2 |
-| Voice-directed / agent-executed | 2 |
+| Completed milestones | 3 |
+| Voice-directed / agent-executed | 3 |
 | Manual computer interventions | 0 |
 | Collaborative | 0 |
 | Current autonomy rate | 100% |
@@ -56,6 +56,20 @@ metric rather than a claim about time spent or lines of code.
   cannot be checked until authentication is complete.
 - **Classification:** Voice-directed / agent-executed.
 - **Manual computer intervention:** None yet.
+
+### 2026-07-05 — Product vision defined
+
+- **Direction:** Build the definitive practical book on efficient vibe coding
+  and an educational platform around it.
+- **Agent work:** Organized the vision into five connected parts: a book,
+  educational website, Discord community, student marketplace, and transparent
+  build tracking.
+- **Result:** The founding product vision is documented in the repository
+  README. Students will be taught how to build, understand the work being
+  performed, track their level of agent assistance, and eventually sell what
+  they create.
+- **Classification:** Voice-directed / agent-executed.
+- **Manual computer intervention:** None.
 
 ## Deferred manual steps
 
